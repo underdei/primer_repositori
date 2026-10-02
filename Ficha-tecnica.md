@@ -21,7 +21,7 @@ Ordenador, github, git y el Visual Studio Code.
 - [x] Rellenar y añadir la informacion que falte
 - [x] Retoques y finalizacion de la ficha
 - [x] Revisar el resultado final
-- [ ] Explicar el flujo de trabajo de git
+- [x] Explicar el flujo de trabajo de git
 
 
 ## Incidències i solucions
@@ -37,3 +37,7 @@ Ordenador, github, git y el Visual Studio Code.
 
 
 - [Documentació consultada](https://github.com/SMX-ProjecteIntermodular/Projecte2/blob/main/activitat-2.md)
+
+## Explicacion git
+
+El ciclo de un commit en Git tiene cuatro estados: primero editas un archivo como mi ficha-tecnica.md y queda en estado Modified, luego lo preparas con git add ficha-tecnica.md y pasa a Staged, después haces git commit -m "Completa procedimiento" y se guarda en el repositorio local en estado Committed, y finalmente con git push origin main se sincroniza Sync con GitHub.
