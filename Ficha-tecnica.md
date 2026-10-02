@@ -20,7 +20,7 @@ Ordenador, github, git y el Visual Studio Code.
 
 - [x] Rellenar y añadir la informacion que falte
 - [x] Retoques y finalizacion de la ficha
-- [ ] Revisar el resultado final
+- [x] Revisar el resultado final
 - [ ] Explicar el flujo de trabajo de git
 
 
